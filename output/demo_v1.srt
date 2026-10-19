@@ -169,44 +169,32 @@ and know his opinion has been received,
 all without attending a meeting.
 
 38
-00:02:35,500 --> 00:02:36,711
-But HearHere has limits.
+00:02:35,500 --> 00:02:37,393
+But HearHere has limits:
 
 39
-00:02:36,791 --> 00:02:38,607
-Speaking in public may feel uncomfortable,
+00:02:37,473 --> 00:02:40,313
+speaking in public may feel uncomfortable,
 
 40
-00:02:38,687 --> 00:02:40,335
+00:02:40,393 --> 00:02:42,969
 and AI translation can make mistakes.
 
 41
-00:02:40,415 --> 00:02:42,871
-Next, we'll test whether residents
-feel comfortable speaking,
+00:02:43,049 --> 00:02:46,152
+Next, we'll test comfort,
+translation accuracy,
 
 42
-00:02:42,951 --> 00:02:44,700
-whether translations keep their meaning,
+00:02:46,232 --> 00:02:49,650
+access without smartphones,
+and how councils respond.
 
 43
-00:02:44,780 --> 00:02:47,168
-and whether people without smartphones
-can still take part.
-
-44
-00:02:47,248 --> 00:02:48,997
-We'll also explore how councils respond,
-
-45
-00:02:49,077 --> 00:02:50,591
-so residents trust they're heard.
-
-46
-00:02:50,671 --> 00:02:53,160
+00:02:49,800 --> 00:02:52,891
 HearHere: the street pillar
 for understanding local decisions.
 
-47
-00:02:53,240 --> 00:02:54,350
+44
+00:02:52,971 --> 00:02:54,350
 Speak here. Be heard!
