@@ -1,0 +1,199 @@
+1
+00:00:00,760 --> 00:00:03,740
+Hello everyone! This is Group 14.
+
+2
+00:00:04,020 --> 00:00:07,200
+Our project focuses on how to enable residents
+
+3
+00:00:07,200 --> 00:00:10,810
+to participate in local government decisions.
+
+4
+00:00:11,030 --> 00:00:14,810
+During our investigation,
+we found five problems.
+
+5
+00:00:15,220 --> 00:00:19,760
+First, residents find policy terminology
+hard to understand,
+
+6
+00:00:19,860 --> 00:00:23,510
+and they lose confidence
+when expressing their opinions.
+
+7
+00:00:24,060 --> 00:00:29,340
+Second, it's hard to attend
+in-person discussions with a busy daily life.
+
+8
+00:00:30,230 --> 00:00:34,910
+Third, topics that don't feel
+personally relevant get less attention.
+
+9
+00:00:36,250 --> 00:00:39,930
+Fourth, residents get stuck
+finding the right department.
+
+10
+00:00:42,230 --> 00:00:45,840
+Lastly, newer residents
+rely on social media,
+
+11
+00:00:45,940 --> 00:00:50,360
+but official information is mostly
+shared through physical channels.
+
+12
+00:00:51,060 --> 00:00:52,310
+Meet Jason.
+
+13
+00:00:52,730 --> 00:00:56,120
+He's from Taiwan, and he's 34 years old.
+
+14
+00:00:56,280 --> 00:00:59,830
+He moved to Melbourne eight years ago,
+and he has a dog.
+
+15
+00:00:59,990 --> 00:01:02,230
+He's a full-time employee as well.
+
+16
+00:01:02,810 --> 00:01:05,850
+He doesn't follow council decisions closely.
+
+17
+00:01:06,330 --> 00:01:08,310
+But when something affects him,
+
+18
+00:01:09,690 --> 00:01:12,920
+he runs into the same problems
+we mentioned before.
+
+19
+00:01:13,910 --> 00:01:16,280
+So, we introduce HearHere:
+
+20
+00:01:16,380 --> 00:01:19,350
+a street pillar paired with a mobile app,
+
+21
+00:01:19,450 --> 00:01:22,390
+with a customised AI helper inside.
+
+22
+00:01:22,840 --> 00:01:25,590
+Let's see what Jason can do with HearHere.
+
+23
+00:01:25,820 --> 00:01:29,690
+On his way to the park,
+Jason passes a HearHere pillar.
+
+24
+00:01:29,980 --> 00:01:33,720
+He taps the screen and finds
+the dog park issue nearby.
+
+25
+00:01:33,940 --> 00:01:38,160
+It's shown in Traditional Chinese,
+with difficult terms explained.
+
+26
+00:01:38,260 --> 00:01:41,180
+Then he speaks to the AI helper in Mandarin.
+
+27
+00:01:41,300 --> 00:01:46,300
+It turns his words into a clear English
+comment and names the responsible department.
+
+28
+00:01:46,740 --> 00:01:51,100
+Jason checks it before sending it.
+His voice is never recorded.
+
+29
+00:01:51,260 --> 00:01:55,930
+He taps his phone on the NFC pad,
+and the issue moves to the app.
+
+30
+00:01:56,380 --> 00:01:58,070
+The pillar keeps nothing.
+
+31
+00:01:58,550 --> 00:02:02,680
+In the app, he can follow
+each stage through to the result.
+
+32
+00:02:09,880 --> 00:02:14,230
+He can also share it on Instagram,
+so his neighbours can join in.
+
+33
+00:02:15,640 --> 00:02:17,520
+And if he has more questions,
+
+34
+00:02:17,620 --> 00:02:21,430
+he can ask Spud in the app,
+in his own language.
+
+35
+00:02:24,700 --> 00:02:28,589
+With HearHere, Jason can understand
+the policy in his own language,
+
+36
+00:02:28,589 --> 00:02:32,920
+find the right department,
+and know his opinion has been received,
+
+37
+00:02:33,020 --> 00:02:35,100
+all without attending a meeting.
+
+38
+00:02:35,510 --> 00:02:37,590
+But HearHere has limits:
+
+39
+00:02:37,690 --> 00:02:40,950
+users may not feel comfortable
+speaking in public,
+
+40
+00:02:41,050 --> 00:02:43,220
+how accurate the translation is,
+
+41
+00:02:43,320 --> 00:02:45,240
+and how will the council react.
+
+42
+00:02:45,460 --> 00:02:48,890
+These will all be tested
+in the future to improve.
+
+43
+00:02:50,170 --> 00:02:54,520
+HearHere: the street pillar
+for understanding local decisions.
+
+44
+00:02:54,620 --> 00:02:56,890
+Speak here. Be heard!
