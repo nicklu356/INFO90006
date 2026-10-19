@@ -4,8 +4,8 @@ python3 subs_demo.py ../output/demo_v1.srt
 """
 import sys
 cues = [
- (0.05, 1.90, "Hello everyone, we are Group 14."),
- (2.10, 5.40, "Our project focuses on how to enable"),
+ (0.05, 2.80, "Hello everyone, this is Group 14,\nTeam Sweet Potatoes."),
+ (2.87, 5.40, "Our project focuses on how to enable"),
  (5.40, 9.60, "international residents to participate\nin local government decisions."),
  (10.55, 13.90, "During our investigation,\nwe found five problems."),
  (14.51, 18.90, "First, residents find policy terminology\nhard to understand,"),
@@ -14,16 +14,15 @@ cues = [
  (29.60, 34.60, "Third, topics that don't feel\npersonally relevant get less attention."),
  (35.29, 39.60, "Fourth, residents get stuck\nfinding the right department."),
  (41.92, 45.35, "Lastly, newer residents\nrely on social media,"),
- (45.35, 50.20, "but official information is mostly\ndistributed through physical channels."),
+ (45.35, 50.20, "but official information is mostly\nshared through physical channels."),
  # Jason: each line lands with its label on the persona card
  (50.86, 52.45, "Meet Jason."),
  (52.60, 55.95, "He's from Taiwan, and he's 34 years old."),
  (56.10, 59.55, "He moved to Melbourne eight years ago,\nand he has a dog."),
  (59.70, 62.20, "He's a full-time employee as well."),
- (62.35, 64.75, "He doesn't follow council decisions closely."),
- (64.90, 68.15, "But when something affects him,\nhe runs into the same problems:"),
- (68.30, 71.40, "meetings are during work hours,\nhe doesn't know who to talk to,"),
- (71.55, 73.60, "and he can't see what happens after."),
+ (62.35, 65.70, "He doesn't follow council decisions closely."),
+ (65.95, 69.45, "But when something affects him,"),
+ (69.60, 73.60, "he runs into the same problems\nwe mentioned before."),
  (73.74, 75.95, "So, we introduce HearHere:"),
  (76.10, 79.25, "a street pillar paired with a mobile app,"),
  (79.35, 82.10, "with a customised AI helper inside."),
@@ -45,18 +44,20 @@ cues = [
  (147.95, 151.90, "find the right department,\nand know his opinion has been received,"),
  (152.00, 155.20, "all without attending a meeting."),
 ]
-# Ending: limitations / future work, then the tagline from the moment the list fades (169.8).
+# Ending: limitations / future work, then the tagline as the list fades (~169.5).
 def spread(lines, a, b, gap=0.08):
     w = [len(t) + 12 for t in lines]
     span = b - a - gap * (len(lines) - 1)
     for txt, wi in zip(lines, w):
         d = span * wi / sum(w); cues.append((a, a + d, txt)); a += d + gap
 spread(["But HearHere has limits:",
-        "speaking in public may feel uncomfortable,",
-        "and AI translation can make mistakes.",
-        "Next, we'll test comfort,\ntranslation accuracy,",
-        "access without smartphones,\nand how councils respond."], 155.5, 169.65)
-cues.append((169.80, 174.35, "HearHere: the street pillar\nfor understanding local decisions."))
+        "users may not feel comfortable\nspeaking in public,",
+        "the translation may not be accurate,",
+        "and we don't know how councils will react.",
+        "In the future, we'll test comfort,\ntranslation accuracy,",
+        "access without smartphones,\nand how councils respond."], 155.45, 169.35)
+spread(["HearHere: the street pillar\nfor understanding local decisions.",
+        "Speak here. Be heard!"], 169.5, 174.35)
 def ts(x):
     ms = round(x * 1000); return f"{ms//3600000:02}:{ms//60000%60:02}:{ms//1000%60:02},{ms%1000:03}"
 out = []

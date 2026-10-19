@@ -1,9 +1,10 @@
 1
-00:00:00,050 --> 00:00:01,900
-Hello everyone, we are Group 14.
+00:00:00,050 --> 00:00:02,800
+Hello everyone, this is Group 14,
+Team Sweet Potatoes.
 
 2
-00:00:02,100 --> 00:00:05,400
+00:00:02,870 --> 00:00:05,400
 Our project focuses on how to enable
 
 3
@@ -49,7 +50,7 @@ rely on social media,
 11
 00:00:45,350 --> 00:00:50,200
 but official information is mostly
-distributed through physical channels.
+shared through physical channels.
 
 12
 00:00:50,860 --> 00:00:52,450
@@ -69,133 +70,137 @@ and he has a dog.
 He's a full-time employee as well.
 
 16
-00:01:02,350 --> 00:01:04,750
+00:01:02,350 --> 00:01:05,700
 He doesn't follow council decisions closely.
 
 17
-00:01:04,900 --> 00:01:08,150
+00:01:05,950 --> 00:01:09,450
 But when something affects him,
-he runs into the same problems:
 
 18
-00:01:08,300 --> 00:01:11,400
-meetings are during work hours,
-he doesn't know who to talk to,
+00:01:09,600 --> 00:01:13,600
+he runs into the same problems
+we mentioned before.
 
 19
-00:01:11,550 --> 00:01:13,600
-and he can't see what happens after.
-
-20
 00:01:13,740 --> 00:01:15,950
 So, we introduce HearHere:
 
-21
+20
 00:01:16,100 --> 00:01:19,250
 a street pillar paired with a mobile app,
 
-22
+21
 00:01:19,350 --> 00:01:22,100
 with a customised AI helper inside.
 
-23
+22
 00:01:22,400 --> 00:01:25,100
 Let's see what Jason can do with HearHere.
 
-24
+23
 00:01:25,400 --> 00:01:29,000
 On his way to the park,
 Jason passes a HearHere pillar.
 
-25
+24
 00:01:29,350 --> 00:01:33,150
 He taps the screen and finds
 the dog park issue nearby.
 
-26
+25
 00:01:33,500 --> 00:01:37,350
 It's shown in Traditional Chinese,
 with difficult terms explained.
 
-27
+26
 00:01:37,700 --> 00:01:40,600
 Then he speaks to the AI helper in Mandarin.
 
-28
+27
 00:01:40,950 --> 00:01:45,900
 It turns his words into a clear English
 comment and names the responsible department.
 
-29
+28
 00:01:46,250 --> 00:01:50,250
 Jason checks it before sending it.
 His voice is never recorded.
 
-30
+29
 00:01:50,600 --> 00:01:54,850
 He taps his phone on the NFC pad,
 and the issue moves to the app.
 
-31
+30
 00:01:55,200 --> 00:01:57,600
 The pillar keeps nothing.
 
-32
+31
 00:01:57,950 --> 00:02:02,600
 In the app, he can follow
 each stage through to the result.
 
-33
+32
 00:02:08,900 --> 00:02:13,000
 He can also share it on Instagram,
 so his neighbours can join in.
 
-34
+33
 00:02:14,620 --> 00:02:16,150
 And if he has more questions,
 
-35
+34
 00:02:16,250 --> 00:02:19,600
 he can ask Spud in the app,
 in his own language.
 
-36
+35
 00:02:23,770 --> 00:02:27,850
 With HearHere, Jason can understand
 the policy in his own language,
 
-37
+36
 00:02:27,950 --> 00:02:31,900
 find the right department,
 and know his opinion has been received,
 
-38
+37
 00:02:32,000 --> 00:02:35,200
 all without attending a meeting.
 
-39
-00:02:35,500 --> 00:02:37,393
+38
+00:02:35,450 --> 00:02:36,909
 But HearHere has limits:
 
+39
+00:02:36,989 --> 00:02:39,503
+users may not feel comfortable
+speaking in public,
+
 40
-00:02:37,473 --> 00:02:40,313
-speaking in public may feel uncomfortable,
+00:02:39,583 --> 00:02:41,529
+the translation may not be accurate,
 
 41
-00:02:40,393 --> 00:02:42,969
-and AI translation can make mistakes.
+00:02:41,609 --> 00:02:43,798
+and we don't know how councils will react.
 
 42
-00:02:43,049 --> 00:02:46,152
-Next, we'll test comfort,
+00:02:43,878 --> 00:02:46,635
+In the future, we'll test comfort,
 translation accuracy,
 
 43
-00:02:46,232 --> 00:02:49,650
+00:02:46,715 --> 00:02:49,350
 access without smartphones,
 and how councils respond.
 
 44
-00:02:49,800 --> 00:02:54,350
+00:02:49,500 --> 00:02:52,799
 HearHere: the street pillar
 for understanding local decisions.
+
+45
+00:02:52,879 --> 00:02:54,350
+Speak here. Be heard!
