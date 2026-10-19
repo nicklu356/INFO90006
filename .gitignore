@@ -4,3 +4,4 @@ video/audio/*.mp3
 video/models/
 video/.venv-tts/
 video/audio/*_raw.wav
+__pycache__/
